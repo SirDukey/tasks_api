@@ -6,7 +6,8 @@ Getting started:
 1. python3 -v venv ./venv
 2. source venv/bin/activate
 3. pip install -r requirements.txt
-4. run ./tasks_api.py
+4. chmod 770 *.py
+5. run ./tasks_api.py
 
 The following scripts are provided to use the api:
 - add_task.py
