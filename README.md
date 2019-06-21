@@ -1,5 +1,6 @@
 # tasks_api
 A restful api using Python3, Flask and requests
+(Useful as a boilerplate for your own api)
 
 Getting started:
 
